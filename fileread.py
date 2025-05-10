@@ -6,5 +6,5 @@
 # f.close()
 
 f = open ("pk.txt", "a")
-f.write("testing that how write work in file i.o")
+f.write("Testing that how write work in file i.o")
 f.close()
